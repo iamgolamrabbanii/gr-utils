@@ -1,8 +1,6 @@
 # Python-Style `print()` for C++
 
 This is a simple C++ utility that mimics Python’s versatile `print()` function.
-This can print array, vector 1D, 2D, vector pair, pair, map 
-
 
 ---
 

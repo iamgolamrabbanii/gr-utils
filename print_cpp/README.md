@@ -44,3 +44,21 @@ print(p);
 
 map<int, string> f = {{1, "map start"}, {2, "ending map"}};
 print(f);
+
+```
+```cpp
+a hello 1 10.4 
+3 4 5 6 
+hello world! Hi 
+1 D v e c t o r 
+2 D 
+v e c t o r 
+
+vector pair 1 
+vector pair 2 
+
+Pyarelal 1 
+
+1 map start 
+2 ending map 
+

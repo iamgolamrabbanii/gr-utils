@@ -3,7 +3,7 @@ using namespace std;
 
 // this can print array, vector 1D, 2D, vector pair, pair, map 
 template<typename... Args> void print(const Args&... args);
-void print_one(const char* val) { cout << (strcmp(val, "\n") == 0 ? "\n" : string(val) + " ");}
+void print_one(const char* val) { cout << (val == "\n" ? "\n" : string(val) + " ");}
 template<typename T> void print_one(const T& val) { cout << val << " "; }
 template<typename T> void print_one(const vector<T>& v) { for (auto& x : v) print_one(x); }
 template<typename T> void print_one(const vector<vector<T>>& v) { for (auto& x : v) { print_one(x); cout << "\n"; }}

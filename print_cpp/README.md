@@ -62,6 +62,7 @@ Pyarelal 1
 ```cpp
 print(a, b, c, d, e, f, p);
 // ouput
+/*
 3 4 5 6 hello world! Hi 1 D v e c t o r 2 D
 v e c t o r
 vector pair 1
@@ -69,4 +70,5 @@ vector pair 2
 1 map start
 2 ending map
 Pyarelal 1
+*/
 ```

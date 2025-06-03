@@ -22,3 +22,22 @@ This is a simple interactive C++ console application that converts between **bin
 1. **Compile the code**:
    ```bash
    g++ -o converter main.cpp
+
+``` cpp
+Write "exit" for exit 
+1. Binary to Decimal
+2. Decimal to Binary
+1
+Enter Binary number : 1000001
+Decimal : 65
+Enter Binary number : exit
+1. Binary to Decimal
+2. Decimal to Binary
+2
+Enter Decimal number : 1000234
+Binary : 11110100001100101010
+Enter Decimal number : exit
+1. Binary to Decimal
+2. Decimal to Binary
+exit
+```

@@ -22,6 +22,7 @@ This is a simple interactive C++ console application that converts between **bin
 1. **Compile the code**:
    ```bash
    g++ -o converter main.cpp
+   .\converter.exe
 
 ``` cpp
 Write "exit" for exit 

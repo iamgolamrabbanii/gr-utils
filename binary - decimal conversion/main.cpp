@@ -23,6 +23,11 @@ string input_binary_check(bool check) {
         }
     }
 
+    if(input.size() > 65) {
+        cout << "Enter a 64bit Binary Number : ";
+        return input_binary_check(true);
+    }
+
     reverse(input.begin(), input.end());
     return input;
 }

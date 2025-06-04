@@ -3,7 +3,7 @@
 This is a simple interactive C++ console application that converts between **binary** and **decimal** numbers. It supports:
 
 - ✅ Decimal to Binary conversion (up to 64-bit)
-- ✅ Binary to Decimal conversion
+- ✅ Binary to Decimal conversion (up to 64-bit)
 - 🔁 Continuous input until you type `exit`
 
 ## 🧠 Features

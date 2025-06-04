@@ -19,7 +19,7 @@ This is a simple interactive C++ console application that converts between **bin
 
 ## 📦 How to Use
 
-1. **Compile the code**:
+1. **Compile the code and run**:
    ```bash
    g++ -o converter main.cpp
    ```
